@@ -1,2 +1,6 @@
 This is sample test file. thanks.
+<<<<<<< HEAD
 This is second line.
+=======
+This line added from the webside.
+>>>>>>> 67a1b7f3007e7bf423d5b363a2cb878d372e31a6
